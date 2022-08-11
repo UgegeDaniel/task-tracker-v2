@@ -28,7 +28,7 @@ border-left: ${({border}) => border ? '5px solid green' : 'none'}
 & svg {
     color: red;
     cursor: pointer;
-    margin-left: 20rem
+    margin-left: 15rem
 }
 `
 export  {Container, HeaderStyle, TaskStyle}
