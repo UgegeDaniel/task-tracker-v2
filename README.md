@@ -56,4 +56,4 @@ Distributed under the MIT License. See LICENSE for more information.
 Contact
 🇳🇬 Ugege Daniel - ugege@gmail.com | Github Account | Twitter | Linkedin |
 Acknowledgements
-Traversy Media and God Almighty .
+Traversy Media, Lewis Ugege and God Almighty .
